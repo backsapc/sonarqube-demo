@@ -1,0 +1,17 @@
+# SonarQube Example
+## Prerequisites
+1. Ensure .NET Core, Java RE and .NET SonarQube global tool installed. For example:
+```sh
+apt-get install dotnet && dotnet tool install --global dotnet-sonarscanner
+```
+## How-to run
+1. Run SonarQube using any preferred method. For this exmaple you can use `docker-compose.yml`:
+```sh
+cd ./compose && docker compose up -d
+```
+2. Create new project in SonarQube admin if not exists. Update `sonar_token`, `sonar_project` and `sonar_url` variables in `scripts/analyse.bat` from the SonarQube project.
+3. Execute sonar global tool.
+```sh
+./scripts/analyse.bat
+```
+4. Check the issues in SonarQube admin.

@@ -1,0 +1,6 @@
+﻿C:\Users\backs\Desktop\Work\psb\sonar-demo\Modules\CodeSmellFile.cs
+C:\Users\backs\Desktop\Work\psb\sonar-demo\Program.cs
+C:\Users\backs\Desktop\Work\psb\sonar-demo\.env
+C:\Users\backs\Desktop\Work\psb\sonar-demo\compose\docker-compose.yml
+C:\Users\backs\Desktop\Work\psb\sonar-demo\README
+C:\Users\backs\Desktop\Work\psb\sonar-demo\scripts\analyse.bat

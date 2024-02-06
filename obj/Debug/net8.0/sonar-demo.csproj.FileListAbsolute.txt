@@ -1,0 +1,14 @@
+C:\Users\backs\Desktop\Work\psb\sonar-demo\bin\Debug\net8.0\sonar-demo.exe
+C:\Users\backs\Desktop\Work\psb\sonar-demo\bin\Debug\net8.0\sonar-demo.deps.json
+C:\Users\backs\Desktop\Work\psb\sonar-demo\bin\Debug\net8.0\sonar-demo.runtimeconfig.json
+C:\Users\backs\Desktop\Work\psb\sonar-demo\bin\Debug\net8.0\sonar-demo.dll
+C:\Users\backs\Desktop\Work\psb\sonar-demo\bin\Debug\net8.0\sonar-demo.pdb
+C:\Users\backs\Desktop\Work\psb\sonar-demo\obj\Debug\net8.0\sonar-demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\backs\Desktop\Work\psb\sonar-demo\obj\Debug\net8.0\sonar-demo.AssemblyInfoInputs.cache
+C:\Users\backs\Desktop\Work\psb\sonar-demo\obj\Debug\net8.0\sonar-demo.AssemblyInfo.cs
+C:\Users\backs\Desktop\Work\psb\sonar-demo\obj\Debug\net8.0\sonar-demo.csproj.CoreCompileInputs.cache
+C:\Users\backs\Desktop\Work\psb\sonar-demo\obj\Debug\net8.0\sonar-demo.dll
+C:\Users\backs\Desktop\Work\psb\sonar-demo\obj\Debug\net8.0\refint\sonar-demo.dll
+C:\Users\backs\Desktop\Work\psb\sonar-demo\obj\Debug\net8.0\sonar-demo.pdb
+C:\Users\backs\Desktop\Work\psb\sonar-demo\obj\Debug\net8.0\sonar-demo.genruntimeconfig.cache
+C:\Users\backs\Desktop\Work\psb\sonar-demo\obj\Debug\net8.0\ref\sonar-demo.dll
